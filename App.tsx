@@ -10,13 +10,9 @@ import WhatsAppButton from './components/WhatsAppButton';
 const App: React.FC = () => {
   return (
     <div className="min-h-screen font-sans text-slate-800">
-      // <Header />
       <main>
         <Hero />
-        // <ProductGrid />
-        // <About />
       </main>
-      // <Footer />
       <WhatsAppButton />
     </div>
   );
